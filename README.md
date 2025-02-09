@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Luis Espinoza
 
-<!--
-**espinozasenior/espinozasenior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an ambitious software engineer with a keen interest in AI and Blockchain.
+I thrive on solving complex problems and crafting innovative solutions, developing robust, cost-effective and scalable software.
+I use to ramp startups up in their early stages to success the business model as tech lead.
 
-Here are some ideas to get you started:
+## 🌱 Current Focus
+- Pursuing advanced studies in AI and Blockchain
+- Honing skills in Rust, Move
+- Build my b/vlog and personal brand ([espinozasenior.com](https://espinozasenior.com))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+- **Languages**: Python, JavaScript, Solidity, Rust
+- **Infrastructure**: Kubernetes, Kafka, GitOps, Terraform, Pulumi, ArgoCD, ELK, Event-Driven Arch, EVM 
+- **Frameworks**: Expo, React Native, Deno, Nest, Typescript
+- **Tools**: Aider.chat, Jira, Kubefirst, Encore.dev, Dify.ai, Viem
+
+## 💼 Opportunities and Collaboration
+I am open to any positions that align with my skills and interests in AI, Blockchain, and Finance. Let's build the future together.
+
+## 💬 Ask me about
+Open Source, Software Architecture, Automations, AI, Criptocurrencies, Soccer, UFC, Philosophy, Geo-politic
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/luisjespinoza/)
+- [X/Twitter](https://x.com/nozasenior)
