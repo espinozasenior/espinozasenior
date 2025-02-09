@@ -6,7 +6,7 @@ I use to ramp startups up in their early stages to success the business model as
 
 ## 🌱 Current Focus
 - Pursuing advanced studies in AI and Blockchain
-- Honing skills in Rust, Move
+- Honing skills in Rust, Move (Sui Chain)
 - Build my b/vlog and personal brand ([espinozasenior.com](https://espinozasenior.com))
 
 ## 💻 Technical Skills
