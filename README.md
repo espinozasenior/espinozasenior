@@ -6,20 +6,20 @@ I use to ramp startups up in their early stages to success the business model as
 
 ## 🌱 Current Focus
 - Pursuing advanced studies in AI and Blockchain
-- Honing skills in Rust, Move (Sui Chain)
-- Build my b/vlog and personal brand ([espinozasenior.com](https://espinozasenior.com))
+- Honing skills in Rust, Agent Orchestration, Typescript
+- Build ([Tapioca Finance]([https://espinozasenior.com](https://github.com/espinozasenior/tapioca-finance)))
 
 ## 💻 Technical Skills
 - **Languages**: Python, JavaScript, Solidity, Rust
-- **Infrastructure**: Kubernetes, Kafka, GitOps, Terraform, Pulumi, ArgoCD, ELK, Event-Driven Arch, EVM 
+- **Infrastructure**: Kubernetes, Kafka, GitOps, Terraform, Pulumi, ArgoCD, ELK, Event-Driven, EVM 
 - **Frameworks**: Expo, React Native, Deno, Nest, Typescript
-- **Tools**: Aider.chat, Jira, Kubefirst, Encore.dev, Dify.ai, Viem
+- **Tools**: Aider.chat, Kubefirst, Encore.dev, Dify.ai, Viem
 
 ## 💼 Opportunities and Collaboration
 I am open to any positions that align with my skills and interests in AI, Blockchain, and Finance. Let's build the future together.
 
 ## 💬 Ask me about
-Open Source, Software Architecture, Automations, AI, Criptocurrencies, Soccer, UFC, Philosophy, Geo-politic
+Open Source, Software Architecture, Automations, AI, Cryptocurrencies, Soccer, UFC, Philosophy, Geo-politic
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/luisjespinoza/)
